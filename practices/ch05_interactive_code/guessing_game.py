@@ -24,4 +24,4 @@ while attempts < attempt_limit:
     else:
         print("That's too High!")
 
-print(f"Bye, you finished in {attempts} attempt.")
+print(f"Bye, you finished in {attempts} attempts.")
